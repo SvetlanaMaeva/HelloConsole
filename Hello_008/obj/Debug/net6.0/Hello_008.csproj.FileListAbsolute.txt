@@ -1,0 +1,15 @@
+C:\Users\Дом\Desktop\C#\Hello_008\bin\Debug\net6.0\Hello_008.exe
+C:\Users\Дом\Desktop\C#\Hello_008\bin\Debug\net6.0\Hello_008.deps.json
+C:\Users\Дом\Desktop\C#\Hello_008\bin\Debug\net6.0\Hello_008.runtimeconfig.json
+C:\Users\Дом\Desktop\C#\Hello_008\bin\Debug\net6.0\Hello_008.dll
+C:\Users\Дом\Desktop\C#\Hello_008\bin\Debug\net6.0\Hello_008.pdb
+C:\Users\Дом\Desktop\C#\Hello_008\obj\Debug\net6.0\Hello_008.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\C#\Hello_008\obj\Debug\net6.0\Hello_008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Desktop\C#\Hello_008\obj\Debug\net6.0\Hello_008.AssemblyInfoInputs.cache
+C:\Users\Дом\Desktop\C#\Hello_008\obj\Debug\net6.0\Hello_008.AssemblyInfo.cs
+C:\Users\Дом\Desktop\C#\Hello_008\obj\Debug\net6.0\Hello_008.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\C#\Hello_008\obj\Debug\net6.0\Hello_008.dll
+C:\Users\Дом\Desktop\C#\Hello_008\obj\Debug\net6.0\refint\Hello_008.dll
+C:\Users\Дом\Desktop\C#\Hello_008\obj\Debug\net6.0\Hello_008.pdb
+C:\Users\Дом\Desktop\C#\Hello_008\obj\Debug\net6.0\Hello_008.genruntimeconfig.cache
+C:\Users\Дом\Desktop\C#\Hello_008\obj\Debug\net6.0\ref\Hello_008.dll
